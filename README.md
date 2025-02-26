@@ -1,2 +1,2 @@
-Работает только с VPN (в доработке):
-https://movies-app-weld-mu.vercel.app/
+Работает только с VPN:
+movies-app-psi-plum.vercel.app
