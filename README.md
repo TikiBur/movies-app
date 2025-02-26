@@ -1,2 +1,2 @@
 Работает только с VPN:
-movies-app-psi-plum.vercel.app
+https://movies-app-psi-plum.vercel.app/
