@@ -1,0 +1,20 @@
+.movie_list-info-genres {
+    font-size: 14px;
+    color: #000000A6;
+    font-weight: bold;
+    margin-bottom: 7px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.movie_genre {
+    background-color: #FAFAFA;
+    border: 1px solid #D9D9D9;
+    border-radius: 2px;
+    padding: 2px 4px;
+}
+
+.movie_genre:nth-child(1) {
+    margin-left: 0;
+}

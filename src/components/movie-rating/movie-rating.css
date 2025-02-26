@@ -1,0 +1,8 @@
+.movie_rating {
+    border: 3px solid;
+    border-radius: 50%;
+    padding: 7px 9px;
+    display: inline-block;
+    min-width: 32px;
+    text-align: center;
+}
